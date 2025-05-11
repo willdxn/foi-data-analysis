@@ -1,0 +1,27 @@
+Refusal_Reason,Rate_Percent_2017,Rate_Percent_2023,Change_In_Rate_pp_2017_to_2023
+S(41) - Information provided in confidence,1.236287281,2.348477227,1.112189945
+S(40) - Personal information,11.93220775,12.44951636,0.517308615
+S(38) - Health and Safety,1.073448749,1.440131078,0.366682329
+Fully refused - vexatious,0.582790538,0.786179341,0.203388803
+S(26) - Defence,0.362101474,0.515975107,0.153873633
+S(22A) - Research intended for future publication,0.014998286,0.058927519,0.043929233
+Fully refused - repeated,0.289252657,0.319070957,0.029818301
+S(34) - Parliamentary privilege,0.012855674,0.017247079,0.004391405
+S(39) - Environmental information,0,0,0
+S(33) - Audit functions,0.20783339,0.199778662,-0.008054728
+S(42) - Legal professional privilege,0.299965718,0.271641491,-0.028324227
+S(28) - Relations within the United Kingdom,0.081419266,0.031619644,-0.049799622
+"S(37) - Communications with His Majesty, etc and honours",0.252828248,0.172470788,-0.08035746
+S(43) - Commercial interests,1.776225574,1.687339207,-0.088886367
+S(36) - Prejudice to effective conduct of public affairs,0.745629071,0.620894836,-0.124734235
+S(24) - National security,0.994172095,0.859479426,-0.134692669
+"S(23) - Information supplied by, or relating to, bodies dealing with security matters",0.775625643,0.51022608,-0.265399562
+S(29) - The economy,0.30210833,0.033056901,-0.269051429
+S(30) - Investigations and proceedings conducted by public authorities,1.351988344,1.076505167,-0.275483177
+S(44) - Prohibitions on disclosure,1.501971203,1.168489587,-0.333481616
+"S(35) - Formulation of Government policy, etc",1.750514227,1.376891789,-0.373622438
+"S(32) - Court records, etc",0.625642784,0.244333616,-0.381309168
+S(27) - International relations,1.465546795,0.8867873,-0.578759494
+S(31) - Law enforcement,2.796109016,1.956106185,-0.840002832
+S(22) - Information intended for future publication,2.127613987,1.215919054,-0.911694933
+Fully refused - cost limit,10.90589647,8.660908059,-2.24498841

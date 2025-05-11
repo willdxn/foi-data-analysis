@@ -56,7 +56,7 @@ dept_colors <- c(
 )
 
 p <- ggplot(df1, aes(x = Quarter, y = `Percentage of resolvable requests granted in full`, group = `Government body`, color = `Government body`)) +
-  geom_line(linewidth = 1.2) + # Updated to use `linewidth` instead of `size`
+  geom_line(linewidth = 1.2) +
   scale_color_manual(values = dept_colors) +
   geom_line(data = yearly_avg, aes(x = Quarter, y = Average, group = 1), color = "grey", linetype = "solid", linewidth = 1.2) +
   geom_line(data = yearly_avg, aes(x = Quarter, y = Average, group = 1), color = "black", linetype = "dotted", linewidth = 1.2) +
